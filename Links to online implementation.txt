@@ -1,0 +1,10 @@
+Link to code in Google Colab,
+https://colab.research.google.com/drive/1eCcM05mKTTJLkxkrJtWjXa3Bdm9yLG5K?usp=sharing
+(Sistemul sterge toate fisierele la un nou run-time... trebuie adaugate din folderul inclus in aceasta
+arhiva daca doriti sa rulati si dvs.)
+
+
+Link to code in Datalore,
+https://datalore.io/notebook/j6z3qwuh42F1EjTcHzQfsS/5sf7VChQiWEIoAizKQ66OK/
+(Aici trebuie doar sa va faceti cont si sa va autentificati si ar trebui sa il puteti rula fara sa
+adaugati csv-urile lipsa)
